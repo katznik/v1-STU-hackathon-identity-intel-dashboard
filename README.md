@@ -770,4 +770,5 @@ This project is licensed under the [MIT License](LICENSE). Use it, fork it, adap
 Special thanks to the Microsoft Security community for sharing KQL queries and detection logic, and to [stefanpems](https://github.com/stefanpems/mcp-add-comment-to-sentinel-incident) for the Sentinel incident commenting MCP pattern.
 
 #   S T U - H a c k a t h o n - I d e n t i t y I n t e l v 2  
+ #   v 1 - S T U - h a c k a t h o n - i d e n t i t y - i n t e l - d a s h b o a r d  
  
